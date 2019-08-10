@@ -11,4 +11,4 @@ This repository contains the pipeline for breaking a CAPTCHA using python and de
 
 ## How to run
 - Download the [datasets](https://drive.google.com/open?id=1apPR2mOzGvuu0u8mxooBY0LkCTaLdFFX) and extract them in the "CAPTCHA-Generator\Images" folder to be able to generate different variety of text-based CAPTCHAs having different background and textured alphabets.
-- Open the 'CAPTCHA-Breaker.bat' file and you are good to go.
+- Open the `CAPTCHA-Breaker.bat` file and you are good to go.
